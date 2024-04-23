@@ -36,7 +36,7 @@ function setup_redux_framework_options(){
 	$args['dev_mode_icon_class'] = 'icon-large';
 
     // If you want to use Google Webfonts, you MUST define the api key.
-    $args['google_api_key'] = 'AIzaSyARJV95W1bhfrtQ2trA9FUxMGKHqpYkLS0';
+    $args['google_api_key'] = '';
 
     // Define the starting tab for the option panel.
     // Default: '0';
